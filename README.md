@@ -36,10 +36,8 @@ Navigate to the latest available release below, or using the link to view all so
 This application is aimed at providing an inclusive, all-in-one student course planning platform for all students attending the University of Waterloo. Offering a default [home page](https://git.uwaterloo.ca/dgrinton/cs346-project/-/issues/11?work_item_iid=12), the ability to [create and log in](https://git.uwaterloo.ca/dgrinton/cs346-project/-/issues/11?work_item_iid=17) to an account, a personalized [schedule](https://git.uwaterloo.ca/dgrinton/cs346-project/-/issues/11?work_item_iid=14), the ability to [search](https://git.uwaterloo.ca/dgrinton/cs346-project/-/issues/11?work_item_iid=12) for all existing and previously offered courses at UW, and [descriptions](https://git.uwaterloo.ca/dgrinton/cs346-project/-/issues/18) for every course are among the most prominent features of our Course Planner. For a full list of features and their associated issues, click [here.](https://git.uwaterloo.ca/dgrinton/cs346-project/-/blob/main/requirements/features.md)
 
 ## Architecture and Design
-### Proposal and Goals
+### Goals
 Keeping track of details for 5 different courses at a time can get confusing. Our goal is to introduce an all-in-one product that tracks various details of University of Waterloo courses.
-### Resources
-Dylan, Owen, Chris, Junlin. Everyone is 100% available - no planned absence.
 ### Risks
 - It is our first time learning and using Kotlin. We have some experience with similar languages such as Java, but not Kotlin itself.\
 **Mitigation:** Start early on learning and using Kotlin, keep up during lectures and lab sections to observe how to use Kotlin and the various frameworks to build the application.
@@ -54,7 +52,6 @@ Focus on creating database to track user accounts & course details. \
 Focus on getting information from UW using the [Open Data API.](https://uwaterloo.ca/api/) \
 **Sprint 4 Nov 22 - Dec 1** \
 Focus on making the program asynchronous so it is consistent across all users.
-# Requirements
 ### Problem
 In spite of the existence of information available to students, the school-provided UI remains insufficiently visually appealing, and the resources themselves fail to connect to one another in a meaningful manner for students. Such examples include difficulty mapping pre-requisite chains, missing an interactive digital graduation course checklist, and personalization for an individual account. The status quo alternatives of UWFlow and Noteability also struggle in some of these areas. Our app will aim to address these pitfalls of existing software and provide University of Waterloo students with an all-in-one, easy-to-use digital platform for all course-related documents, data and information.
 ### Users
@@ -78,6 +75,6 @@ The features we think are critical to this project are as follows:
 We are using layered architecture for our project. A diagram including a rough description of what each layer will do is as follows:
 ![image](https://github.com/junlin0902/Course-Planner/assets/118623321/461be919-8a3e-43a1-bba7-06b2f59a6f87)
 
-Final Business Layer UML
+### Final Business Layer UML
 ![image](https://github.com/junlin0902/Course-Planner/assets/118623321/991afe14-277f-4653-b938-92a37375b2eb)
 
