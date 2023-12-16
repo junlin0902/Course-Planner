@@ -1,4 +1,7 @@
-# CS346 Course Planner Android Project
+# Course Planner Android Project
+## Goals
+Keeping track of details for 5 different courses at a time can get confusing. Our goal is to introduce an all-in-one product that tracks various details of University of Waterloo courses.
+
 ## Instructions to Install
 First, we need to set up the server. Within an Android emulator, such as Android Studio, navigate to the folder where you would like to install our application, open your terminal, and enter the following command:
 
