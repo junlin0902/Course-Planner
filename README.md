@@ -11,10 +11,13 @@ First, we need to set up the server. Within an Android emulator, such as Android
 `git clone https://git.uwaterloo.ca/dgrinton/cs346-project.git`
 
 To run the server, either run the `server.sh` file or run the following commands from the `server` folder:
+```shell
+docker docker build -t dockerfile .
+```
 
-`docker docker build -t dockerfile .`
-
-`docker run -p 8080:8080 dockerfile .`
+```shell
+docker run -p 8080:8080 dockerfile .
+```
 
 To run the client, drag the [APK](https://git.uwaterloo.ca/dgrinton/cs346-project/-/blob/main/release/v0.4-installer.apk) from its installed location onto your emulated device. It will now work properly.
 
