@@ -7,8 +7,9 @@ Keeping track of details for 5 different courses at a time can get confusing. Ou
 
 ## Instructions to Install
 First, we need to set up the server. Within an Android emulator, such as Android Studio, navigate to the folder where you would like to install our application, open your terminal, and enter the following command:
-
-`git clone https://git.uwaterloo.ca/dgrinton/cs346-project.git`
+```shell
+git clone https://git.uwaterloo.ca/dgrinton/cs346-project.git
+```
 
 To run the server, either run the `server.sh` file or run the following commands from the `server` folder:
 ```shell
