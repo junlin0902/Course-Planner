@@ -15,7 +15,7 @@ To run the server, either run the `server.sh` file or run the following commands
 
 To run the client, drag the [APK](https://git.uwaterloo.ca/dgrinton/cs346-project/-/blob/main/release/v0.4-installer.apk) from its installed location onto your emulated device. It will now work properly.
 
-Navigate to the latest available release below, or using the link to view all software releases [here.](https://git.uwaterloo.ca/dgrinton/cs346-project/-/tree/main/release) Download the latest installer APK, and drag onto your emulated Android device.
+Download the latest installer APK, and drag onto your emulated Android device.
 ### Software Releases
 See the release folder.
 
