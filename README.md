@@ -38,8 +38,9 @@ This application is aimed at providing an inclusive, all-in-one student course p
 ### Proposal
 View our project's proposal [here.](https://git.uwaterloo.ca/dgrinton/cs346-project/-/wikis/Project-Proposal)
 ### Revised High-Level Architecture and Design
-View the latest architecture and design diagrams [here.](https://git.uwaterloo.ca/dgrinton/cs346-project/-/wikis/Project-Final-Architecture-and-Design)
-## Reflections on Practices
-Read about how the team reflects on our practices throughout development [here.](https://git.uwaterloo.ca/dgrinton/cs346-project/-/wikis/Final-Reflection)
-### Meeting Minutes
-View the logged meeting minutes [here.](https://git.uwaterloo.ca/dgrinton/cs346-project/-/wikis/Meeting-Minutes)
+We are using layered architecture for our project. A diagram including a rough description of what each layer will do is as follows:
+![image](https://github.com/junlin0902/Course-Planner/assets/118623321/461be919-8a3e-43a1-bba7-06b2f59a6f87)
+
+Final Business Layer UML
+![image](https://github.com/junlin0902/Course-Planner/assets/118623321/991afe14-277f-4653-b938-92a37375b2eb)
+
