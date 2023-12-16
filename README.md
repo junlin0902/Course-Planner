@@ -1,4 +1,7 @@
 # Course Planner Android Project
+## General
+![5493f2c83f4cb066d441d58da57cd6e](https://github.com/junlin0902/Course-Planner/assets/118623321/9a8f319f-e89a-40ea-a178-0cb612ea4c42)
+
 ## Goals
 Keeping track of details for 5 different courses at a time can get confusing. Our goal is to introduce an all-in-one product that tracks various details of University of Waterloo courses.
 
