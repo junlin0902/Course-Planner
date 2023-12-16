@@ -71,15 +71,7 @@ The features we think are critical to this project are as follows:
 - Allow files to be sorted by file names
 - Allow users to access help mode
 - Import & export files
-  
-## Design
-### System Diagram
-We are using layered architecture for our project. A diagram including a rough description of what each layer will do is as follows:
-![Design Diagram](uploads/834f331ac1e578c8f7f006810f714dbb/design_diagram.jpg)
-We also have a UML which gives a rough description of the business layer:
-![uml](uploads/a23e0b9b7e87fb544e2bebbbfd827af6/uml.jpg)
-## Non-Functional Requirements
-We do not have any non-functional requirements for this project.
+
 
 
 ### Revised High-Level Architecture and Design
